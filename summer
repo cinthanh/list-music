@@ -6,3 +6,4 @@ list summerMusic:
     1. header ajax:
         <meta name="csrf-token" content="{{ csrf_token() }}">
     2. https://laravel-news.com/five-useful-laravel-blade-directives blade includes has        
+    3. php artisan migrate:fresh
