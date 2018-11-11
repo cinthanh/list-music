@@ -7,3 +7,9 @@ list summerMusic:
         <meta name="csrf-token" content="{{ csrf_token() }}">
     2. https://laravel-news.com/five-useful-laravel-blade-directives blade includes has        
     3. php artisan migrate:fresh
+#vscode
+Shift + Alt + F = format code
+Ctr + ` = terminal toggle
+#react
+link : https://www.youtube.com/watch?v=Ke90Tje7VS0 : 55' @date: 11/11/2018
+
