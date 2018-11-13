@@ -1,0 +1,46 @@
+<?php
+# ctrl + alt + shift + N : goto symbol
+# PHP Windows
+# window + break
+# click envariement
+    # system variable
+        #path
+        # link to path php
+
+## Ctrl + G : go to line
+
+## Ctrl + F12: show all function in a Class
+# double shift : search quickly
+# Ctrl + F : Find for condition
+# Ctrl + R : change
+
+## Ctrl + E : show file just open
+
+# Ctrl + P : display recommends params
+# Ctrl + Q : display quickly tutorial
+## Ctrl + Shift + K : git push
+    # Ctrl + D : show diff
+# Alt + 1 : hide|show sidebar
+# Alt + ` : hide|show git version
+# Ctrl Alt left -> back to action
+# Ctrl Alt right -> next to action
+
+# Ctrl + ` : show mode view \ options + 4 + 1 (2)
+/**
+ *
+ */
+#=======WINDOWS COMMAND LINE
+# dir = ls
+# echo %cd% = pwd
+#access fast : d: or e: (from C:\Windows >cd located)
+# cls = clear
+// GIT _________________________
+#git st -s
+# before need add to index: git add .
+# git stash save "message remember"
+# git stash list  #: show all stash
+# git stash pop|apply # [stash@{1}] default get 0 == newest
+# git stash drop stash@{5}
+
+#=========================vsCODE=========
+#duplicate row: Shift + Alt + down
