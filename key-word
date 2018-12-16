@@ -1,0 +1,2 @@
+sudo fdisk -l # view disks
+sudo mount -t ntfs /dev/sdb1 /media #mount disk
