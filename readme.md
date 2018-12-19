@@ -1,4 +1,4 @@
-```
+```shell
 -> $ php --interactive
 Interactive mode enabled
 
